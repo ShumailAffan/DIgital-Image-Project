@@ -1,0 +1,7 @@
+train: D:/Phyton Work/Brain Tumor Segmentation/images/train
+val: D:/Phyton Work/Brain Tumor Segmentation/images/val
+test: D:/Phyton Work/Brain Tumor Segmentation/test
+
+nc: 3
+names: ['glioma', 'meningioma', 'pituitary']
+
